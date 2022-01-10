@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Swis721 BT Roman";
+    src: url("../fonts/swis721btbold/Swis721_Cn_BT_Roman.ttf");
+   }
+
+@font-face {
+    font-family: "Swis721 Md BT";
+    src: url("../fonts/swis721btbold/Swis721_Cn_BT_Bold.ttf");
+   }
+
+
+
+@font-face {
+    font-family: "Swis721 Md BT Italic";
+    src: url("../fonts/swis721btbold/Swis721_Md_BT_Medium_Italic.ttf");
+   }
